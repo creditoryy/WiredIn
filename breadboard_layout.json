@@ -1,0 +1,10 @@
+{
+  "board": {
+    "columns": 63,
+    "rail_top": true,
+    "rail_bottom": true
+  },
+  "components": [
+    { "type": "resistor", "value": "10k", "pins": ["A5","E5"] }
+  ]
+}
